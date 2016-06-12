@@ -1,2 +1,2 @@
-# matrix
-Control LED Matrix from Facebook Messenger 
+# cloud-matrix
+A cloud-based LED Matrix controller
